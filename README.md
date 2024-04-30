@@ -15,5 +15,5 @@ Maintain a memory of past interactions to remember context and provide personali
 ### User-Friendly Interface:
 Develop a user-friendly interface using Streamlit, ensuring accessibility for users of all technical levels.
 ## Tech Stack
-Vertex AI, Pinecone, GCP,Prompt Eng, Hugging Face, Langchain, Conversational Buffer Window Memory, Python,Streamlit,MySql
+Open AI, Vertex AI, Pinecone, GCP,Prompt Eng, Hugging Face, Langchain, Conversational Buffer Window Memory, Python,Streamlit,MySql
 
